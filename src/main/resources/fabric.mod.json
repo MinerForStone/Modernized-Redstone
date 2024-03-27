@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "modernized_redstone",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "Modernized Redstone",
+  "description": "Redstone parity mod to make BTA redstone behave like it does in vanilla",
   "authors": [
-    "Turnip Labs"
+    "MinerForStone"
   ],
   "contact": {
     "homepage": "",
@@ -19,20 +19,20 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-			"turniplabs.examplemod.ExampleMod"
+			"minerforstone.modernized_redstone.ModernizedRedstone"
     ],
 		"beforeGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+			"minerforstone.modernized_redstone.ModernizedRedstone"
 		],
 		"afterGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+			"minerforstone.modernized_redstone.ModernizedRedstone"
 		],
 		"recipesReady": [
-			"turniplabs.examplemod.ExampleMod"
+			"minerforstone.modernized_redstone.ModernizedRedstone"
 		]
 	},
   "mixins": [
-      "examplemod.mixins.json"
+      "modernized_redstone.mixins.json"
   ],
 
   "depends": {
