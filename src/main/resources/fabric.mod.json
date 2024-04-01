@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Modernized Redstone",
-  "description": "Redstone parity mod to make BTA redstone behave like it does in vanilla",
+  "description": "A mod to close the gap between BTA and vanilla redstone while keeping the flavor of BTA",
   "authors": [
     "MinerForStone"
   ],

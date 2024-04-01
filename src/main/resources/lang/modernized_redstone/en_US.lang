@@ -1,0 +1,3 @@
+tile.modernized_redstone.target.name = Redstone Target
+tile.modernized_redstone.stock_meter.idle.name = Stock Meter
+tile.modernized_redstone.stock_meter.active.name = Stock Meter

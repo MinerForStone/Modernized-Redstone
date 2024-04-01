@@ -4,9 +4,8 @@
     "package": "minerforstone.modernized_redstone.mixin",
     "compatibilityLevel": "JAVA_8",
     "mixins": [
-      "RedstoneWire",
-      "RedstoneTorch",
-      "Repeater"
+      "PistonMixin",
+      "ChestMixin"
     ],
     "client": [
     ],
